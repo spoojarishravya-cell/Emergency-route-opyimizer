@@ -1,0 +1,14 @@
+
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+cache/
+.vscode/
+.env
+.streamlit/secrets.toml
+*.log
+.DS_Store
+*.graphml
+*.gpkg
